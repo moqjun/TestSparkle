@@ -10,7 +10,7 @@
                 https://github.com/moqjun/TestSparkle/blob/master/SampleAppcast.xml
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 09 Jan 2018 19:20:11 +0000</pubDate>
-            <enclosure url="http://www.xp-pen.com.cn/upload/download/20180110/XP-PenMac(20180110).zip" sparkle:version="3.0" length="1623481" type="application/octet-stream" sparkle:dsaSignature="MCwCFHUXeFSqh2x5aKpQaiZH/HZzMSHxAhRiz/G4SFji2VLrrDwLSBJOp1Oclg==" />
+            <enclosure url="https://github.com/moqjun/TestSparkle/blob/master/testSparkle.zip" sparkle:version="3.0" length="1623481" type="application/octet-stream" sparkle:dsaSignature="MCwCFHUXeFSqh2x5aKpQaiZH/HZzMSHxAhRiz/G4SFji2VLrrDwLSBJOp1Oclg==" />
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
         </item>
         <item>
@@ -19,7 +19,7 @@
                 https://github.com/moqjun/TestSparkle/blob/master/SampleAppcast.xml
             </sparkle:releaseNotesLink>
             <pubDate>Wed, 09 Jan 2006 19:20:11 +0000</pubDate>
-            <enclosure url="http://www.xp-pen.com.cn/upload/download/20180110/XP-PenMac(20180110).zip" sparkle:version="1.0" length="1623481" type="application/octet-stream" sparkle:dsaSignature="MC0CFGG6pmPWCWbfVnx5OsLV9eX5APT8AhUAgAjZYmhQihmak8VGkOQAv9kSjFE" />
+            <enclosure url="https://github.com/moqjun/TestSparkle/blob/master/testSparkle.zip" sparkle:version="1.0" length="1623481" type="application/octet-stream" sparkle:dsaSignature="MC0CFGG6pmPWCWbfVnx5OsLV9eX5APT8AhUAgAjZYmhQihmak8VGkOQAv9kSjFE" />
             <sparkle:minimumSystemVersion>10.7</sparkle:minimumSystemVersion>
         </item>
 
